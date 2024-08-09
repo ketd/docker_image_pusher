@@ -2,4 +2,4 @@ nacos/nacos-server
 couchdb:3.3.3
 portainer/portainer-ce:alpine-sts
 nacos/nacos-server:v2.4.0.1
-
+zlmediakit/zlmediakit:master
