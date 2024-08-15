@@ -3,3 +3,4 @@ couchdb:3.3.3
 portainer/portainer-ce:alpine-sts
 nacos/nacos-server:v2.4.0.1
 zlmediakit/zlmediakit:master
+rustdesk/rustdesk-server:1.1.11-1-amd64
