@@ -10,5 +10,5 @@ nacos/nacos-server:v2.4.3
 rabbitmq:4.0.3
 mongodb/mongodb-community-server:7.0.8-ubi9
 flink:scala_2.12-java17
-
+flink:1.20.0
 
